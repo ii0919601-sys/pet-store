@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BANZAII\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA73500-97ED-4637-B1D4-47EEEE4BD9E4}|\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435.csproj|c:\\users\\banzaii\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CA73500-97ED-4637-B1D4-47EEEE4BD9E4}|\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435.csproj|solutionrelative:\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\BANZAII\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\UserPage.xaml",
+              "RelativeDocumentMoniker": "\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\BANZAII\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\UserPage.xaml",
+              "RelativeToolTip": "\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-06T15:38:31.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
